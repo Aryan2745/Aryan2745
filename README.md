@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Kumar</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on MLOPS <br>🌱 I’m currently learning different data science tools<br>💬 Ask me about Data Analysis, MLOPS, Cricket <br>⚡ Fun fact  I Am Ambivert <br>📫 How to reach me: kr.aryan2745@gmail.com
+🔭 I’m currently working on MLOPS <br>🌱 I’m currently learning different data science tools<br>💬 Ask me about Data Analysis, MLOPS, Cricket <br>⚡ Fun fact  I Am An Ambivert <br>📫 How to reach me: kr.aryan2745@gmail.com
 
 
 ## 🌐 Socials:
